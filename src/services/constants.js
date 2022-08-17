@@ -1,0 +1,2 @@
+export const DAY_IN_MILLISECONDS = 24 * 60 * 60 * 10000;
+// export const DAY_IN_MILLISECONDS = 864000000;
